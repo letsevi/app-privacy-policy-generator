@@ -78,5 +78,15 @@ var thirdPartyServicesJsonArray = [
       privacy: 'https://clicky.com/terms#privacy',
       terms: ''
     }
+  },
+  {
+    name: 'Yandex.Direct',
+    model: 'yadirect',
+    yadirect: false,
+    logo: 'images/clicky.png',
+    link: {
+      privacy: 'https://yandex.com/legal/yan_dpa_ch/',
+      terms: ''
+    }
   }
 ]
